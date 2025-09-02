@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Tristan Pang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Oxford"
+  bio              : "Physical Oceanographer | Mathematician"
+  location         : #"Oxford"
   employer         : "University of Oxford"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tristan.pang@new.ox.ac.uk" 
 
   # Academic websites
   academia         : # URL
