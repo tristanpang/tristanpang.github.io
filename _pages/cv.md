@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* D.Phil in Physical Oceanography (NERC DTP), **University of Oxford**, 2027 (expected)
+* MSc in Computational Applied Mathematics, **University of Edinburgh**, 2023
+* MSc in Mathematics and Foundations of Computer-Science, **University of Oxford**, 2021
+* BSc (Honours) in Pure Mathematics (Kupe Scholar), **University of Oxford**, 2020
+* BSc in Mathematics and Physics, **University of Oxford**, 2018
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* MSc dissertation, **University of Edinburgh**, 2023
+* Various projects, **University of Edinburgh**, 2022-2023
+* Graduate research, **Leiden University**, 2021-2022
+* MSc dissertation, **University of Oxford**, 2021
+* Various projects, **University of Oxford**, 2020-2021
+* BSc (Honours) dissertation, **University of Auckland**, 2019
+* Various projects, **University of Oxford**, 2016-2019
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 
 
 Publications
 ======
@@ -61,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

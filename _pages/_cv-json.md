@@ -6,6 +6,7 @@ author_profile: false
 redirect_from:
   - /resume-json
 ---
+<!-- https://jsonresume.org/getting-started -->
 
 {% include base_path %}
 
