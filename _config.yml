@@ -28,11 +28,11 @@ author:
   bio              : "Physical Oceanographer | Mathematician"
   location         : #"Oxford"
   employer         : "University of Oxford"
-  uri              : # URL
+  uri              : https://www.environmental-research.ox.ac.uk/people/tristan-pang # URL
   email            : "tristan.pang@new.ox.ac.uk" 
 
   # Academic websites
-  academia         : # URL
+  academia         : https://www.environmental-research.ox.ac.uk/people/tristan-pang # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
