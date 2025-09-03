@@ -8,10 +8,11 @@
 
 
 # Expansion macros
-ox : "**University of Oxford**"
-ak: "**University of Auckland**"
-le: "**Leiden University**"
-ed: "**University of Edinburgh**"
+macro:
+  ox : "**University of Oxford**"
+  ak: "**University of Auckland**"
+  le: "**Leiden University**"
+  ed: "**University of Edinburgh**"
 
 
 # Basic Site Settings
