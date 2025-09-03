@@ -33,7 +33,7 @@ Research experience
 * Various projects, {{m.ox}}, 2020-2021
   * Elliptic curves, Algebraic number theory, Analytic number theory, Infinite groups, Cryptology, Geometric group theory
 * BSc (Honours) dissertation, {{m.ak}}, 2019
-  * [$p$-adic numbers and the Hasse-Minkowski theorem](../files/The Hasse-Minkowski Theorem.pdf), Supervisor: Dr. Jeroen Schillewaert
+  * [p-adic numbers and the Hasse-Minkowski theorem](../files/The Hasse-Minkowski Theorem.pdf), Supervisor: Dr. Jeroen Schillewaert
 * Various projects, {{m.ak}}, 2016-2019
   * Finite tight frames and spherical designs, Supervisor: Dr. Shayne Waldron
   * Moving sofa, Supervisor: Prof. Igor Klep
