@@ -26,7 +26,7 @@ fi
 
 # Run the Python script to convert markdown to JSON
 echo "Converting markdown CV to JSON..."
-python3 "$PYTHON_SCRIPT" --input "$CV_MARKDOWN" --output "$CV_JSON" --config "$CONFIG_FILE"
+python "$PYTHON_SCRIPT" --input "$CV_MARKDOWN" --output "$CV_JSON" --config "$CONFIG_FILE"
 
 # Check if the conversion was successful
 if [ $? -eq 0 ]; then

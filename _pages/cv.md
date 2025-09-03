@@ -27,7 +27,10 @@ Research experience
 * BSc (Honours) dissertation, **University of Auckland**, 2019
 * Various projects, **University of Oxford**, 2016-2019
 
-
+Teaching experience
+======
+* Numerical methods, {{site.ox}}
+* 
 
 <!-- Skills
 ======
