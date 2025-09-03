@@ -23,23 +23,23 @@ Research experience
 * DPhil projects, {{m.ox}}, 2023-Present
  * Supervisors: Prof. David Marshall, Dr. James R. Maddison
 * MSc dissertation, {{m.ed}}, 2023
- * [Modelling Geophysical Fluids using Dedalus (spectral framework)](files/Modelling Geophysical Fluids Using Dedalus.pdf), Supervisor: Dr. James R. Maddison
+  * [Modelling Geophysical Fluids using Dedalus (spectral framework)](../files/Modelling Geophysical Fluids Using Dedalus.pdf), Supervisor: Dr. James R. Maddison
 * Various projects, {{m.ed}}, 2022-2023
   * Solving QUBO problems with quantum computing, Agent based behaviour alignment models, Ensemble Kalman samplers, Point vortices in a polygon, Travelling dipoles, Passive scalars under the alternating sine map, Lift of an aerofoil, Traffic moddeling, Biomarkers (in R), Machine Learning
 * Graduate research, {{m.le}}, 2021-2022
- * Class Field Theory, Supervisors: Dr. Jan Vonk, Prof. Peter Stevenhagen
+  * Class Field Theory, Supervisors: Dr. Jan Vonk, Prof. Peter Stevenhagen
 * MSc dissertation, {{m.ox}}, 2021
- * The Arithmetic of Elliptic Curves and Jacobians of Genus 2 Curves, Supervisor: Prof. Victor Flynn
+  * [The Arithmetic of Elliptic Curves and Jacobians of Genus 2 Curves](../files/The Arithmetic of Elliptic Curves and Jacobians of Genus 2 Curves.pdf), Supervisor: Prof. Victor Flynn
 * Various projects, {{m.ox}}, 2020-2021
- * Elliptic curves, Algebraic number theory, Analytic number theory, Infinite groups, Cryptology, Geometric group theory
+  * Elliptic curves, Algebraic number theory, Analytic number theory, Infinite groups, Cryptology, Geometric group theory
 * BSc (Honours) dissertation, {{m.ak}}, 2019
- * $p$-adic numbers and the Hasse-Minkowski theorem, Supervisor: Dr. Jeroen Schillewaert
+  * [$p$-adic numbers and the Hasse-Minkowski theorem](../files/The Hasse-Minkowski Theorem.pdf), Supervisor: Dr. Jeroen Schillewaert
 * Various projects, {{m.ak}}, 2016-2019
- * Finite tight frames and spherical designs, Supervisor: Dr. Shayne Waldron
- * Moving sofa, Supervisor: Prof. Igor Klep
- * Algebraic geometry, Supervisor: Prof. Igor Klep
+  * Finite tight frames and spherical designs, Supervisor: Dr. Shayne Waldron
+  * Moving sofa, Supervisor: Prof. Igor Klep
+  * Algebraic geometry, Supervisor: Prof. Igor Klep
 * Various projects, **Photon Factory** (Auckland), 2013-2017
- * Research on titanium dioxide, Conductivity measurement device for water quality, EM light sensitivty tests on milk bottles
+  * [Research on titanium dioxide](https://doi.org/10.1117/12.2289337), Conductivity measurement device for water quality, EM light sensitivty tests on milk bottles
 
 Teaching experience
 ======
