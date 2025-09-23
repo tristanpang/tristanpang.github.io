@@ -21,7 +21,7 @@ Education
 Research experience
 ======
 * DPhil projects, {{m.ox}}, 2023-Present
- * Supervisors: Prof. David Marshall, Dr. James R. Maddison
+  * Supervisors: Prof. David P. Marshall, Dr. James R. Maddison
 * MSc dissertation, {{m.ed}}, 2023
   * [Modelling Geophysical Fluids using Dedalus (spectral framework)](../files/Modelling Geophysical Fluids Using Dedalus.pdf), Supervisor: Dr. James R. Maddison
 * Various projects, {{m.ed}}, 2022-2023

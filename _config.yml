@@ -133,6 +133,7 @@ staticman:
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+  off                    : true     # change to true to disable the whole feed
 
 
 # SEO Related
@@ -227,18 +228,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -251,9 +252,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: ""
@@ -268,8 +269,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -278,7 +279,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -286,8 +287,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -295,7 +296,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
